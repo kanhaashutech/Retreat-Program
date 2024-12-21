@@ -169,7 +169,7 @@ nav > img {
 
 .heading h1 {
   font-size: 2.5rem;
-  filter: drop-shadow(1px 1px 0.5px #77ffa5);
+  filter: drop-shadow(1px 1px 2px #ff8a8a);
 }
 
 .heading h2 {
