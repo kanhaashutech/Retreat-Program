@@ -1156,7 +1156,9 @@ p.footer{
   .heading h1 {
     font-size: 1.5rem;
     /* filter: none; */
-    filter: drop-shadow(1px 1px 0.5px #77ffa5);
+    /* filter: drop-shadow(1px 1px 0.5px #77ffa5); */
+    
+  filter: drop-shadow(1px 1px 1px #ff8a8a);
     font-weight: 600;
   }
   
