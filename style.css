@@ -1150,11 +1150,11 @@ p.footer{
   
   .heading {
     padding-top: 1.2rem;
-    width: 95%;
+    width: 98%;
   }
   
   .heading h1 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     /* filter: none; */
     /* filter: drop-shadow(1px 1px 0.5px #77ffa5); */
     
@@ -1163,7 +1163,7 @@ p.footer{
   }
   
   .heading h2 {
-    font-size: 1.2rem;
+    font-size: 1.05rem;
     /* margin-top: 1rem; */
     font-weight: 400;
   }
