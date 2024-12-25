@@ -1191,12 +1191,12 @@ p.footer{
 /* ------------  Meet Trainer section --------- */
 
 .meet-trainer {
-  margin: 2rem 0;
+  margin: 1rem 0;
 }
 
 .meet-trainer h1 {
   font-weight: 700;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
 }
 
 .trainer_cont {
@@ -1219,16 +1219,16 @@ p.footer{
 }
 
 .trainer_cont  .txt-div ul {
-  font-size: 1.1rem;
-  margin-top: .8rem;
-  font-weight: 500;
+  font-size: 1rem;
+  margin-top: .1rem;
+  font-weight: 400;
 }
 .trainer_cont  .txt-div .change_life {
-  margin-top: 2.3rem;
+  margin-top: 1rem;
 }
 
 .trainer_cont  .txt-div h3 {
-  font-size: 1.15rem;
+  font-size: .85rem;
   font-weight: 600;
 }
 
@@ -1237,15 +1237,16 @@ p.footer{
 }
 
 .trainer_cont  .txt-div h3.enroll {
-  margin-top: 2rem;
-  font-size: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: -1rem;
+  font-size: .85rem;
 }
 
 .trainer_cont  .txt-div a#enroll-btn {
-  padding: .7rem 1.4rem;
+  padding: .5rem 1.1rem;
   font-weight: 700;
-  font-size: 1.2rem;
-  border-radius: 2.5rem 0 2.5rem 0;
+  font-size: 1rem;
+  border-radius: 1.8rem 0 1.8rem 0;
   
 }
 
@@ -1271,7 +1272,7 @@ p.footer{
 
 
 .trainer_cont .img-div {
-  height: 20rem;
+  height: 15rem;
   width: 90%;
   /* background-color: #007a00; */
 }
@@ -1279,32 +1280,35 @@ p.footer{
 .trainer_cont .img-div img {
   border-top-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
-  filter: drop-shadow(7px 8px 0 #8fff9e);
+  filter: drop-shadow(5px 6px 0 #8fff9e);
 }
 
 /* ---------- other details ----------------- */
 
 .main .details {
-  margin-top: 1rem;
-  padding: 1rem 0 0 0;
+  margin-top: .2rem;
+  padding: 0rem 0 0 0;
 }
-
+.details .box {
+  margin-bottom: 1rem;
+}
 .details .box h1 {
   font-weight: 700;
-  font-size: 1.6rem;
-  margin-top: 1.5rem;
+  font-size: 1.2rem;
+  margin-top: .1rem;
 }
 
 .main .details .box h3.sub-head {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-weight: 600;
-  width: 88%;
+  width: 95%;
   margin-top: 1.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: .6rem;
+  text-align: center;
 }
 
 .details p.details-para {
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin-top: .8rem;
   width: 88%;
 }
@@ -1312,12 +1316,12 @@ p.footer{
 /*-------------------- testimonial section starts ----------------------------- */
 
 h1.testi {
-  font-size: 1.6rem;
-  margin-top: 3rem;
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
 }
 
 h4.testi-sub-head {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .creative-cards {
@@ -1423,22 +1427,22 @@ h4.testi-sub-head {
 /* ------------ CTA starts -------------- */
 
 .cta {
-  padding: 1.2rem 0;
+  padding: 1rem 0;
 }
 
 .cta h1 {
-  font-size: 1.35rem;
+  font-size: 1.2rem;
 }
 
 .cta h1.join {
-  font-size: 1.2rem;
-  margin: 1.5rem 0;
+  font-size: 1.1rem;
+  margin: 1rem 0;
 }
 
 h2.slot{
   color: #f10000;
-  padding: .6rem 0;
-  font-size: 1.2rem;
+  padding: .6rem .5rem;
+  font-size: 1rem;
 }
 
 .cta .cta-btn{
@@ -1504,6 +1508,11 @@ a.cta-price {
 .faq p{
   font-size: 1rem;
 }
+.call-btn{
+  text-decoration: none;
+}
+
+
 
 /* last sectioon */
 
