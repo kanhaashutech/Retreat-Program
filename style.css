@@ -1010,6 +1010,20 @@ h2.slot{
 }
 
 a.cta-price {
+  background: linear-gradient(90deg , #00e917, #03a500 );
+  font-size: 1.3rem;
+  padding: .6rem 3rem;
+  border-radius: 5px;
+  border: 2px solid #beffa2;
+  filter: drop-shadow(0 0 5px #00e91781);
+  margin-top: 0rem;
+  font-weight: 500;
+  display: inline-block;
+  animation: cta .7s ease-in-out infinite alternate ;
+}
+
+
+/* a.cta-price {
   background: linear-gradient(90deg , #0028c8, #001879 );
   font-size: 1.3rem;
   padding: .6rem 3rem;
@@ -1019,7 +1033,7 @@ a.cta-price {
   font-weight: 500;
   display: inline-block;
   animation: cta .7s ease-in-out infinite alternate ;
-}
+} */
 
 @keyframes cta {
     0%{
@@ -1455,6 +1469,21 @@ h2.slot{
 }
 
 a.cta-price {
+  background: linear-gradient(90deg , #00e917, #03a500 );
+  font-size: 1.1rem;
+  padding: .5rem 1.5rem;
+  border-radius: 5px;
+  border: 2px solid #beffa2;
+  filter: drop-shadow(0 0 5px #00e91781);
+  margin-top: 0rem;
+  font-weight: 500;
+  display: inline-block;
+  animation: cta .7s ease-in-out infinite alternate ;
+}
+
+
+
+/* a.cta-price {
   background: linear-gradient(90deg , #0028c8, #001879 );
   font-size: 1.1rem;
   padding: .5rem 1.5rem;
@@ -1464,7 +1493,7 @@ a.cta-price {
   font-weight: 500;
   display: inline-block;
   animation: cta .7s ease-in-out infinite alternate ;
-}
+} */
 
 @keyframes cta {
     0%{
